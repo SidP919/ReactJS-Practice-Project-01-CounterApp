@@ -1,10 +1,22 @@
-# Getting Started with Create React App
+# Counter App
+
+A Simple Counter App for practicing on ReactJS Library.
+
+## Screenshots:
+
+![App-Screenshot](./screenshots/app_screenshot.png)
+
+## Getting Started with this React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+After downloading the repo: 
+
+Inside the project directory path, before you run this project using "**npm start**" on your localhost server, please do install all project dependencies using "**npm install**" command.
+
+Then, in the project directory, you can run this project using:
 
 ### `npm start`
 
